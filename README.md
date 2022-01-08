@@ -1,2 +1,2 @@
 # IJ_leaf_area_stereology
- stereology for leaf arfea estimation with legth reference
+ stereology for leaf area estimation with legth reference
